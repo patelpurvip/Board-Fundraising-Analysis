@@ -1,7 +1,7 @@
-Income FY20,In-Kind Donations FY20,Volunteer Hours FY20
-"$7,445.86",$841.50,49.6
-"$24,008.00",$0.00,27.5
-$0.00,$0.00,1.0
-$884.60,$0.00,3.0
-$622.52,$70.49,4.1
-$nan,$nan,nan
+Bucket,Income FY20,In-Kind Donations FY20,Volunteer Hours FY20
+1: Individual Giving,"$7,445.86 ",$841.50 ,49.6
+2: Major Donors,"$24,008.00 ",$0.00 ,27.5
+3: Grants,$0.00 ,$0.00 ,1
+4: Corporations,$884.60 ,$0.00 ,3
+5: Earned Revenue,$622.52 ,$70.49 ,4.1
+No bucket,$nan,$nan,nan
