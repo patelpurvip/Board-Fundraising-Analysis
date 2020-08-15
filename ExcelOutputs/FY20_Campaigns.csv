@@ -1,4 +1,11 @@
 Campaign Name,Income FY20,In-Kind Donations FY20,Volunteer Hours FY20,Expenses FY20,Return_per_Dollar,Return_per_Hour
-Appeal - Giving Tuesday,8544.94,1499.08,36.0,25.5,335.09568627450983,237.35944444444445
-Benefit Dinner Totals,106326.0,10092.72,631.0,3220.0,33.02049689440994,168.50396196513472
-Ecua vols/visitors,5487.46,0.0,0.0,25.0,219.4984,inf
+Appeal - Giving Tuesday,8544.94,1499.08,36,25.5,335.0956863,237.3594444
+Benefit Dinner Totals,106326,10092.72,631,3220,33.02049689,168.503962
+Ecua vols/visitors,5487.46,0,0,25,219.4984,inf
+,,,,,,
+,,,,,,
+,,,,,,
+,Return_per_Dollar,Return_per_Hour,,,,
+Appeal - Giving Tuesday,335.0956863,237.3594444,,,,
+Benefit Dinner Totals,33.02049689,168.503962,,,,
+Ecua vols/visitors,219.4984,inf,,,,
