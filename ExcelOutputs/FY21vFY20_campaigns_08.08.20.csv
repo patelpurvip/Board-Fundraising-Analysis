@@ -1,23 +1,25 @@
 ,Bucket,Campaign Name,Income FY21,Income FY20,FY21 as % of FY20
-0,1: Individual Giving,Sponsor a Scholar,"$12,420.45","$25,213.95",49.3%
-2,1: Individual Giving,Appeal - June,"$9,641.00","$25,295.00",38.1%
+0,1: Individual Giving,Sponsor a Scholar,"$15,127.99","$25,213.95",60.0%
+2,1: Individual Giving,Appeal - June,"$5,526.00","$2,095.00",263.8%
 8,1: Individual Giving,Benefit dinner tickets,"$4,817.12","$4,010.00",120.1%
 9,1: Individual Giving,Benefit dinner individual donations,"$8,250.40","$2,825.00",292.0%
 10,1: Individual Giving,Benefit dinner auction,"$9,808.13","$11,491.00",85.4%
 12,1: Individual Giving,Events - not recurring,$309.30,"$2,920.00",10.6%
 13,1: Individual Giving,Events - Ecuador,$0.00,"$1,213.60",0.0%
-14,1: Individual Giving,Birthdays and weddings,"$1,667.52","$6,049.31",27.6%
-15,1: Individual Giving,Unsolicited Gifts,"$5,178.48","$30,005.66",17.3%
+14,1: Individual Giving,Birthdays and weddings,"$1,717.52","$6,049.31",28.4%
+15,1: Individual Giving,Unsolicited Gifts,"$2,411.48","$7,505.66",32.1%
 16,2: Major Donors,Benefit dinner sponsorships (5),"$50,000.00","$87,500.00",57.1%
-18,3: Grants,Grants,$750.00,$0.00,inf%
-19,4: Corporations,Benefit dinner sponsorships (1),$520.56,$500.00,104.1%
-20,4: Corporations,Matching donations (10),"$2,413.26","$1,769.19",136.4%
-22,5: Earned Revenue,Benefit dinner item sales,$601.06,"$1,183.00",50.8%
-23,5: Earned Revenue,Pura Vida sales,$5.00,$5.00,100.0%
-24,5: Earned Revenue,Dream Book sales,$0.00,$0.00,nan%
-25,5: Earned Revenue,Popsocket sales,$0.00,$0.00,nan%
-26,5: Earned Revenue,Photo sales,$0.00,$40.00,0.0%
-27,5: Earned Revenue,Speaking events,$0.00,$414.00,0.0%
-28,5: Earned Revenue,Amazon Smile,$32.35,$192.33,16.8%
-29,5: Earned Revenue,CafePress,$0.00,$0.00,nan%
-30,5: Earned Revenue,Goodshop,$0.00,$0.00,nan%
+18,2: Major Donors,Other Major Donors,"$8,000.00","$44,200.00",18.1%
+19,3: Grants,Grants,"$7,750.00","$1,500.00",516.7%
+20,4: Corporations,Benefit dinner sponsorships (1),$520.56,$500.00,104.1%
+21,4: Corporations,Matching donations (10),"$3,348.26","$1,769.19",189.3%
+22,5: Earned Revenue,Ecua vols/visitors,$0.00,"$5,487.46",0.0%
+23,5: Earned Revenue,Benefit dinner item sales,$601.06,"$1,183.00",50.8%
+24,5: Earned Revenue,Pura Vida sales,$10.00,$5.00,200.0%
+25,5: Earned Revenue,Dream Book sales,$0.00,$0.00,nan%
+26,5: Earned Revenue,Popsocket sales,$20.00,$0.00,inf%
+27,5: Earned Revenue,Photo sales,$0.00,$40.00,0.0%
+29,5: Earned Revenue,Speaking events,$0.00,$414.00,0.0%
+30,5: Earned Revenue,Amazon Smile,$90.85,$192.33,47.2%
+31,5: Earned Revenue,CafePress,$0.00,$0.00,nan%
+32,5: Earned Revenue,Goodshop,$0.00,$0.00,nan%
