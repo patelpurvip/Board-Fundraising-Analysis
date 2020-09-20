@@ -1,7 +1,9 @@
-Bucket,Income FY20,Income_Percentage,In-Kind Donations FY20,InKind_Percentage,Volunteer Hours FY20,VolHours_Percentage
-1: Individual Giving,"$88,207.57",19.1%,"$16,233.85",49.4%,1015.0,92.4%
-2: Major Donors,"$132,716.00",28.6%,$0.00,0.0%,31.0,2.8%
-3: Grants,"$1,500.00",0.3%,$0.00,0.0%,1.0,0.1%
-4: Corporations,"$2,269.19",0.5%,$0.00,0.0%,7.0,0.6%
-5: Earned Revenue,"$7,321.79",1.6%,$159.60,0.5%,43.0,3.9%
-No bucket,$0.00,0.0%,$68.76,0.2%,0.0,0.0%
+Bucket,Income FY20,"Income
+Percentage",In-Kind Donations FY20,"InKind
+Percentage",Volunteer Hours FY20,"VolHours
+Percentage"
+1: Individual Giving,"$88,207.57 ",38.10%,"$16,233.85 ",98.90%,1015,92.40%
+2: Major Donors,"$132,716.00 ",57.20%,$0.00 ,0.00%,31,2.80%
+3: Grants,"$1,500.00 ",0.60%,$0.00 ,0.00%,1,0.10%
+4: Corporations,"$2,269.19 ",1.00%,$0.00 ,0.00%,7,0.60%
+5: Earned Revenue,"$7,321.79 ",3.20%,$159.60 ,1.00%,43,3.90%
