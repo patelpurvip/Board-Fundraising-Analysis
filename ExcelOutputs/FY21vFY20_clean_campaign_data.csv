@@ -1,16 +1,16 @@
 ,Campaign Name,Bucket,Income FY21,In-Kind Donations FY21,Volunteer Hours FY21,Expenses FY21,Income FY20,In-Kind Donations FY20,Volunteer Hours FY20,Expenses FY20
-0,Sponsor a Scholar,1: Individual Giving,23812.68,0.0,30.0,0.0,25213.95,0.0,75.0,0.0
-1,Sponsor a Scholar - Fund a Thon,1: Individual Giving,3724.12,0.0,0.0,0.0,3610.0,3.5,20.0,0.0
+0,Sponsor a Scholar,1: Individual Giving,23812.68,0.0,60.0,0.0,25213.95,0.0,75.0,0.0
+1,Sponsor a Scholar - Fund a Thon,1: Individual Giving,3724.12,0.0,50.0,0.0,3610.0,3.5,20.0,0.0
 2,Appeal - June,1: Individual Giving,5525.97,0.0,27.0,210.06,2095.0,341.23,20.0,0.0
-3,Appeal - December,1: Individual Giving,10417.13,283.65,0.0,0.0,9637.11,459.55,20.0,224.92
-4,Online appeal - Giving Tuesday,1: Individual Giving,7332.46,0.0,0.0,0.0,8544.94,1499.08,36.0,25.5
-5,Online event - Starfish Search,1: Individual Giving,1037.0,0.0,0.0,95.0,1268.0,7.5,50.0,302.0
-6,Online event - Starfish Bracket Challenge,1: Individual Giving,0.0,0.0,5.0,175.0,1115.0,230.0,30.0,0.0
+3,Appeal - December,1: Individual Giving,10417.13,283.65,35.0,0.0,9637.11,459.55,20.0,224.92
+4,Online appeal - Giving Tuesday,1: Individual Giving,7332.46,0.0,25.0,0.0,8544.94,1499.08,36.0,25.5
+5,Online event - Starfish Search,1: Individual Giving,1037.0,0.0,15.0,95.0,1268.0,7.5,50.0,302.0
+6,Online event - Starfish Bracket Challenge,1: Individual Giving,0.0,0.0,0.0,175.0,1115.0,230.0,30.0,0.0
 7,Lapsed Donors,1: Individual Giving,0.0,0.0,0.0,0.0,400.0,0.0,8.0,0.0
 8,Benefit dinner tickets,1: Individual Giving,4817.12,384.79,538.0,583.33,4010.0,13490.62,300.0,1000.0
 9,Benefit dinner individual donations,1: Individual Giving,8250.4,0.0,0.0,583.33,2825.0,0.0,0.0,1000.0
 10,Benefit dinner auction,1: Individual Giving,9808.13,9243.06,152.0,803.34,11491.0,12455.15,300.0,1341.0
-11,Events - CT/NE,1: Individual Giving,5402.8,1774.46,0.0,249.99,309.0,22.0,10.0,167.14
+11,Events - CT/NE,1: Individual Giving,5402.8,1774.46,222.0,249.99,309.0,22.0,10.0,167.14
 12,Events - not recurring,1: Individual Giving,309.3,0.0,0.0,0.0,2920.0,3578.27,60.0,316.0
 13,Events - Ecuador,1: Individual Giving,0.0,0.0,0.0,0.0,1213.6,0.0,80.0,24.14
 14,Birthdays and weddings,1: Individual Giving,4159.77,0.0,3.0,0.0,6049.31,0.0,3.0,0.0
@@ -18,7 +18,7 @@
 16,Benefit dinner sponsorships (5),2: Major Donors,50000.0,0.0,57.0,0.0,87500.0,0.0,30.0,0.0
 17,University Efforts,2: Major Donors,0.0,0.0,1.0,0.0,1016.0,0.0,1.0,0.0
 18,Other Major Donors,2: Major Donors,34475.0,0.0,0.0,0.0,44200.0,0.0,0.0,0.0
-19,Grants,3: Grants,8750.0,0.0,6.0,0.0,1500.0,0.0,1.0,0.0
+19,Grants,3: Grants,8750.0,0.0,91.0,0.0,1500.0,0.0,1.0,0.0
 20,Benefit dinner sponsorships (1),4: Corporations,520.56,0.0,1.0,0.0,500.0,0.0,1.0,0.0
 21,Matching donations (10),4: Corporations,22329.48,0.0,6.0,0.0,1769.19,0.0,6.0,0.0
 22,Ecua vols/visitors,5: Earned Revenue,0.0,0.0,0.0,0.0,5487.46,0.0,6.0,25.0
@@ -27,7 +27,7 @@
 25,Dream Book sales,5: Earned Revenue,0.0,0.0,1.0,0.0,0.0,0.0,10.0,0.0
 26,Popsocket sales,5: Earned Revenue,20.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
 27,Photo sales,5: Earned Revenue,0.0,0.0,1.0,0.0,40.0,0.0,10.0,0.0
-28,Mask sales,5: Earned Revenue,537.4,284.25,,0.0,0.0,0.0,0.0,0.0
+28,Mask sales,5: Earned Revenue,537.4,284.25,25.0,0.0,0.0,0.0,0.0,0.0
 29,Speaking events,5: Earned Revenue,0.0,0.0,0.0,0.0,414.0,0.0,4.0,0.0
 30,Amazon Smile,5: Earned Revenue,310.16,0.0,1.0,0.0,192.33,0.0,1.0,0.0
 31,CafePress,5: Earned Revenue,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
